@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Next.js Blog Demo
+
+This is the finished example app from the [Learn Next.js](https://nextjs.org/learn) tutorial.
